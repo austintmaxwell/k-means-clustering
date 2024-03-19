@@ -1,0 +1,5 @@
+Cluster 0: [1.8, 2.1]
+Cluster 1: [4.5, 6.5]
+Cluster 2: [1.1, 0.5]
+Cluster 3: [3.2]
+Cluster 4: [9.8, 7.6, 11.32]
